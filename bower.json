@@ -1,0 +1,6 @@
+{
+  "name": "Snap.js",
+  "version": "1.9.2",
+  "author": "DP",
+  "main": ["snap.js", "snap.css"]
+}
